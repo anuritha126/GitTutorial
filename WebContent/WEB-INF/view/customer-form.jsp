@@ -19,7 +19,7 @@
 	<h1>Hi for git add</h1>
 	<div id="wrapper">
 		<div id="header">
-			<h2>Mounika Reddy Arkala Sagar Team Manager</h2>
+			<h2>Vinisha Team Manager</h2>
 		</div>
 	</div>
 
