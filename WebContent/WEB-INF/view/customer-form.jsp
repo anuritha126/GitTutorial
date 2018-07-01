@@ -19,7 +19,7 @@
 	
 	<div id="wrapper">
 		<div id="header">
-			<h2>Mounika Arkala Team Manager</h2>
+			<h2>Mounika Reddy Arkala Team Manager</h2>
 		</div>
 	</div>
 
