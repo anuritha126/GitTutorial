@@ -48,7 +48,7 @@
 					</tr>
 
 					<tr>
-						<td><label>Email:</label></td>
+						<td><label>My Email:</label></td>
 						<td><form:input path="email" /></td>
 					</tr>
 
