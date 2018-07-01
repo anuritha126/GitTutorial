@@ -65,7 +65,7 @@ public class CustomerController {
 		
 		// delete the customer
 		customerservice.deleteCustomer(theId);
-		
+		System.out.println("Hi for git add");
 		return "redirect:/customer/list";
 	}
 }
