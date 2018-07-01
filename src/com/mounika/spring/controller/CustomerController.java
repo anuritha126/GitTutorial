@@ -29,6 +29,7 @@ public class CustomerController {
 				
 		// add the customers to the model
 		theModel.addAttribute("customers", theCustomers);
+		System.out.println("Trying to do reverse conflict");
 		
 		return "list-customers";
 	}
